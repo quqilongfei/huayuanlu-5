@@ -1,0 +1,7 @@
+演职员表mp4.mp4 filter=lfs diff=lfs merge=lfs -text
+kaitou.webm filter=lfs diff=lfs merge=lfs -text
+演职员表.webm filter=lfs diff=lfs merge=lfs -text
+*mp4 filter=lfs diff=lfs merge=lfs -text
+*.webm filter=lfs diff=lfs merge=lfs -text
+*.fbx*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
